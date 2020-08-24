@@ -2,9 +2,9 @@
   "articolo": 
     { "id": 1, 
       "codice": "7LM567",
-      "descrizione" = "Birra",
-      "prezzo" = 2,
-      "colli" = 2,
-      "qta" = 48
+      "descrizione" : "Birra",
+      "prezzo" : 2,
+      "colli" : 2,
+      "qta" : 48
     }
 }
