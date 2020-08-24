@@ -6,7 +6,7 @@
       "prezzo" : 2,
       "colli" : 2,
       "qta" : 48,
-      "TipoConfezione" = "CD"
+      "tipoConfezione" : "CD"
     }
 }
 
