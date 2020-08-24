@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "commentssdfs": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "articolo": 
+    { "id": 1, 
+      "codice": "7LM567",
+      "descrizione" = "Birra",
+      "prezzo" = 2,
+      "colli" = 2,
+      "qta" = 48
+    }
 }
